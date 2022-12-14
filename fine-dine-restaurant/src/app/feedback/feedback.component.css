@@ -1,0 +1,26 @@
+#h1{
+    color: purple;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 800;
+}
+#form{
+    border: 1px solid black;
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(215, 240, 232);
+}
+#or{
+    margin-right: 30px;
+}
+.radio{
+    margin-right: 10px;
+}
+#reset{
+    margin-right: 30px;
+}
+.width{
+    width: 100%;
+}
